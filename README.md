@@ -5,8 +5,8 @@
 
 I'm a developer. I'm from Viet Nam, living in Ha Noi and currently working at VTI.
 
-- 🌱 I’m currently learning Vue, Laravel, Rust
-- 🤔 I’m looking for help with learning Rust.
+- 🌱 I’m currently learning Vue, Python, Rust
+- 🤔 I’m looking for help with learning Rust, Python
 
 
 
@@ -32,8 +32,6 @@ I'm a developer. I'm from Viet Nam, living in Ha Noi and currently working at VT
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-
-
 
 
 
